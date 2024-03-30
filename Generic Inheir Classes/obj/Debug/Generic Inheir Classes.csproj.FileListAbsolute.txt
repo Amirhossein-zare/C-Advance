@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Generic Inheir Classes\bin\Debug\Generic Inheir Classes.exe.config
+C:\Users\Day 2 Day\Desktop\Generic Inheir Classes\bin\Debug\Generic Inheir Classes.exe
+C:\Users\Day 2 Day\Desktop\Generic Inheir Classes\bin\Debug\Generic Inheir Classes.pdb
+C:\Users\Day 2 Day\Desktop\Generic Inheir Classes\obj\Debug\Generic Inheir Classes.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Generic Inheir Classes\obj\Debug\Generic Inheir Classes.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Generic Inheir Classes\obj\Debug\Generic Inheir Classes.exe
+C:\Users\Day 2 Day\Desktop\Generic Inheir Classes\obj\Debug\Generic Inheir Classes.pdb
