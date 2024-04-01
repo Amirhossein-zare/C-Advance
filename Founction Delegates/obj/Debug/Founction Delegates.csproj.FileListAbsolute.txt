@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Founction Delegates\bin\Debug\Founction Delegates.exe.config
+C:\Users\Day 2 Day\Desktop\Founction Delegates\bin\Debug\Founction Delegates.exe
+C:\Users\Day 2 Day\Desktop\Founction Delegates\bin\Debug\Founction Delegates.pdb
+C:\Users\Day 2 Day\Desktop\Founction Delegates\obj\Debug\Founction Delegates.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Founction Delegates\obj\Debug\Founction Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Founction Delegates\obj\Debug\Founction Delegates.exe
+C:\Users\Day 2 Day\Desktop\Founction Delegates\obj\Debug\Founction Delegates.pdb
